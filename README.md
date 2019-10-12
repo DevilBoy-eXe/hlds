@@ -13,5 +13,6 @@ This is the last known version that is compatible with last version of dproto th
 # HLDS Build 8177
 wget https://github.com/DevilBoy-eXe/hlds/releases/download/8177/hlds_build_8177.zip
 # HLDS Build 8196
-
+wget https://github.com/DevilBoy-eXe/hlds/releases/download/8196/hlds_build_8196.zip
 # HLDS Build 8308
+wget https://github.com/DevilBoy-eXe/hlds/releases/download/8196/hlds_build_8308.zip
