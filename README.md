@@ -1,7 +1,7 @@
 # HLDS Builds (Linux Only)
 
-This reporsitori is dedicated for hosting hlds builds versions, this way will be easy to do a wget from here 
-rather than trying to download with steamcmd, because if you know or didn't steamcmd has some problems with downloading hlds
+This repository is dedicated for hosting HLDS builds versions, this way will be easy to do a wget from here 
+rather than trying to download with steamcmd, because if you know or didn't steamcmd has some problems with downloading HLDS
 
 Here are some wget links:
 
